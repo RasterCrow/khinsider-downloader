@@ -1,5 +1,5 @@
 # Khinsider Downloader
-Simple node 
+Simple node application to download music in mass from khinsider.
 
 # How to use
 
